@@ -1,0 +1,37 @@
+{
+  "schema": 1,
+  "revision": "2026.07.19.1",
+  "created_at": "2026-07-19T17:38:51.395191+07:00",
+  "files": [
+    {
+      "name": "ICD_PL_VII_TT26.xlsx",
+      "sha256": "205e413ed5590f90aed6651c0b7955276d659a45d6088af27b03f54fd0482697",
+      "size": 97502
+    },
+    {
+      "name": "ICD_PLI_TT25.xlsx",
+      "sha256": "ebd4445423b11de37628c177d56e5084f13c6eb79a7b7f3796af198ef71644db",
+      "size": 123399
+    },
+    {
+      "name": "ICD_TT06.xlsx",
+      "sha256": "dc9a804f2b2b379c0fb0464f1ed3ac7784cd67618d6ed782d49f86e0c3f7e496",
+      "size": 214945
+    },
+    {
+      "name": "khongkedongthoi.xlsx",
+      "sha256": "fefbba0f2b5fa77c485425163c6c0970d611aca4332c3c0eb203b3f917d8891d",
+      "size": 8807
+    },
+    {
+      "name": "THUOC_TT20_2022_BYT.xlsx",
+      "sha256": "514355331f3c74c6c5c8a52d8322b4cfe15e1b2e2ba2f847536e9f4572e9b1ff",
+      "size": 8603
+    },
+    {
+      "name": "tuongtachoatchat.xlsx",
+      "sha256": "e79ec4189e78d2966c57126ad683498b395eef258e9d1ed588be2b3d259022b6",
+      "size": 8647
+    }
+  ]
+}
